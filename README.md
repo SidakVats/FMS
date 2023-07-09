@@ -1,1 +1,1 @@
-# FMS
+# FMS (Fees Management System)
